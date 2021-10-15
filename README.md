@@ -42,7 +42,7 @@ Para realizar este trabajo deberás utilizar el concepto de objeto en Javascript
 Objeto "movie":
 
 ```sh
-{
+let movie = {
     rating: number,
     name: string,
     image: string
