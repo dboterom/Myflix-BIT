@@ -33,6 +33,7 @@ Para este trabajo deberás tener en cuenta lo siguiente:
 - Dependiendo de la cantidad de estrellas que el usuario haya ingresado al agregar una película, se deberán mostrar las estrellas doradas o grises. Ejm: Si se ingresa una película con 2 estrellas, solo deberán mostrarse 2 estrellas doradas en la película y 1 gris.
 - Se debe validar al ingreso de la calificación, que esta sea mayor que 0 y menor o igual que 3.
 - La imagen simplemente será la URL de cualquier imagen que puedas encontrar en Google.
+- Los íconos utilizados deberán tomarse de Fontawesome, por lo que deben usar la CDN de la página.
 
 
 ## Modelo
